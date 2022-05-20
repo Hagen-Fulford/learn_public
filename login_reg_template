@@ -1,0 +1,3 @@
+This is a login and reg template with flask, byrpt, and MySQL 
+Ensure you conect your db in the models 
+I have added notes where things should be updated (this is not extensive)
